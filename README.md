@@ -6,10 +6,7 @@
 <br/>
 - My GitHub Stats :
 <br/><br/><br/>
-![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zishan-7&show_icons=true&theme=radical)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zishan-7&show_icons=true&theme=radical
-">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zishan-7&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true">
 <!-- <details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
