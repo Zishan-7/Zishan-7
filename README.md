@@ -6,8 +6,10 @@
 <br/>
 - My GitHub Stats :
 <br/><br/><br/>
-<img align="left" src="!Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
-">
+![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zishan-7&show_icons=true&theme=radical)
+
+<!-- <img align="left" src="!Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+"> -->
 <!-- <details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
