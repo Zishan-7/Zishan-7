@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me? Email at - zishan2539@gmail.com
-
-<details>
+<br/>
+- My GitHub Stats :
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zishan-7&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true">
+<!-- <details>
   <summary>📈 Show GitHub Stats</summary>
   <br />
   <div align="right">
@@ -13,7 +16,7 @@
     <br />
     <img src="https://activity-graph.herokuapp.com/graph?username=Zishan-7&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
   </div>
-</details>
+</details> -->
 <!---
 Zishan-7/Zishan-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
