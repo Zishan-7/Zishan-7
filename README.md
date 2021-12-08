@@ -1,9 +1,9 @@
 # Hey 👋 I'm Zishan Mohd
 
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me? Email at - zishan2539@gmail.com
+- I’m interested in Web development 
+- I’m currently learning ReactJs
+- I’m looking to collaborate on web development projects
+- How to reach me? Email at - zishan2539@gmail.com
 <br/>
 - My GitHub Stats :
 <br/><br/><br/>
